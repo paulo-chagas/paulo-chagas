@@ -1,6 +1,6 @@
 # Hi, I'm Paulo 👋
 
-## Senior Data Scientist | MSc in CS | GenAI & MLOps
+## Senior Data Scientist | MSc in CS | GenAI & MLOps | Machine Learning • Deep Learning • Computer Vision
 
 I am a Data Scientist focused on bridging the gap between cutting-edge AI research and scalable, production-ready systems.
 
