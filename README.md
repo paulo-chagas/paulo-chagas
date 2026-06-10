@@ -22,6 +22,7 @@ My approach to Data Science is rooted in research, but built for production. Wit
 ---
 
 ### 🔗 Connect with me
-[LinkedIn](your-linkedin-link)
+[LinkedIn](https://www.linkedin.com/in/paulochagasjr95/)
+[Google Scholar](https://scholar.google.com.br/citations?user=BGNromYAAAAJ&hl=en&oi=sra)
 
 ---
